@@ -3,7 +3,6 @@
 ### EEE Student | Robotics & Industrial Automation Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahidur-rahman-50814027b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahidur.eng@gmail.com)
 [![World University of Bangladesh](https://img.shields.io/badge/World%20University%20of%20Bangladesh-EEE-blue?style=for-the-badge)](https://wub.edu.bd)
 
 ---
